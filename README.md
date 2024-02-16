@@ -1,5 +1,8 @@
 ![Header](./github-header-image.png)
 
+[kata](https://www.codewars.com/users/AntonGorynya/badges/large)
+
+
 <!--
 **AntonGorynya/AntonGorynya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
