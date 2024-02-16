@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[kata](https://www.codewars.com/users/AntonGorynya/badges/large)
+![codewar](https://www.codewars.com/users/AntonGorynya/badges/large)
 
 
 <!--
