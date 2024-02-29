@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Бот аренды складских площадей](https://github.com/AntonGorynya/SelfStorage)
   Написал бота для конечного пользователя. Осноные инструменты Django и python-telegram-bot==13.15
 - [SMM планер на гугл таблицах](https://github.com/AntonGorynya/SMM_Planer)
-  Интеграция с телеграм и вк.
+  Интеграция с телеграм и вк. Интеграция с телеграм. Основные инструменты Pyrogram и request 
 - [Сайт подписки на еду](https://github.com/Prikur76/foodplan)
   Сделал форму заказа. Осноные инструменты Django
 - [Боты для мероприятий](https://github.com/AntonGorynya/PythonMeetup)
