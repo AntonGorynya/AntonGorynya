@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - [Бот для записи на ноготочки](https://github.com/AntonGorynya/BeautyCity)
 - [Бот аренды складских площадей](https://github.com/AntonGorynya/SelfStorage)
 - [SMM планер на гугл таблицах](https://github.com/AntonGorynya/SMM_Planer)
+- [Сайт подписки на еду](https://github.com/Prikur76/foodplan)
+- [Бот для спикеров](https://github.com/AntonGorynya/PythonMeetup)
 # Боты
 - [quiz](https://github.com/AntonGorynya/quiz_bot)
 - [Speach_recognition](https://github.com/AntonGorynya/speech_recognition_bot)
