@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - [Speach_recognition](https://github.com/AntonGorynya/speech_recognition_bot)
 - [Notification бот](https://github.com/AntonGorynya/notification_bot)
 - [Бот с картинками](https://github.com/AntonGorynya/space-telegram)
+- [Парсер сообщений](https://github.com/AntonGorynya/telegram_parserbot/tree/master)
 
 ## Просто интересные проекты
 - [Игра в терминале](https://github.com/AntonGorynya/Space_game)
