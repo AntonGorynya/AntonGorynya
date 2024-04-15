@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ## Просто интересные проекты
 - [Игра в терминале](https://github.com/AntonGorynya/Space_game)
 - [Докерезированный сайт бургерной](https://github.com/AntonGorynya/star-burger)
-- [Измениние размера картинок]([https://github.com/AntonGorynya/12_image_resize](https://github.com/AntonGorynya/Python_basic/tree/master/12_image_resize))
+- [Измениние размера картинок](https://github.com/AntonGorynya/Python_basic/tree/master/12_image_resize)
