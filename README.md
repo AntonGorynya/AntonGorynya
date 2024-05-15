@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [Бот аренды складских площадей](https://github.com/AntonGorynya/SelfStorage) редставляет собой диалог по заказу контейнера для хранения. Написал бота для конечного пользователя. Подключил QR коды. Основные инструменты Django и python-telegram-bot==13.15
 - [SMM планер на гугл таблицах](https://github.com/AntonGorynya/SMM_Planer)
   Сервис представляет с собой гугл таблицу для планирование постов и управлению соц сетями. В таблицу подкладывается ссылка на текст поста, фото. Выбирается дата и время поста, а так же интересующая соц.сеть. Так же есть индикация, если пост был опубликован. Выполнил: Интеграцию с телеграм и вк. Основные инструменты: Pyrogram, google api и request
+- [Бургерная](https://github.com/AntonGorynya/star-burger)
 - [Сайт подписки на еду](https://github.com/Prikur76/foodplan)
   Выполнил: Написал весь бэкенд. Параметризовал страницы. Сделал форму заказа. Сделал форму регистрации. Исправил модели. Основные инструменты Django
 - [Боты для мероприятий](https://github.com/AntonGorynya/PythonMeetup) редставляет собой 2 бота. Для слушателей и спикера. слушатели могут задавать вопросы. Спикеры отвечают на вопросы, которые приходят в боте. Так же спикеры могут быть слушателями для других спикеров. Написал модель БД. Разработал Дизайн и написал бота для спикера. Основные инструменты Django и python-telegram-bot==13.15
@@ -41,3 +42,7 @@ Here are some ideas to get you started:
 - [Игра в терминале](https://github.com/AntonGorynya/Space_game)
 - [Докерезированный сайт бургерной](https://github.com/AntonGorynya/star-burger)
 - [Измениние размера картинок](https://github.com/AntonGorynya/Python_basic/tree/master/12_image_resize)
+
+## async
+- [чат клиент](https://github.com/AntonGorynya/under_chat) 
+- [Микросервис для качивания](https://github.com/AntonGorynya/async-download-service)
